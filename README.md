@@ -3,11 +3,14 @@
 My GitHub profile
 
 Here at my gitHub profile you will find - 
+
 i) some leetcode solutions - just type the question number or name (you might find a solution)
 
 ii) some projects
 
 iii) factorial named file - which has important data structures and its implementations.
+
+iv) Some app clones- (work in progress) Working on Spotify clone
 
 
 ##  About Me

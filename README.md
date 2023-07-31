@@ -10,7 +10,8 @@ ii) some projects
 
 iii) factorial named file - which has important data structures and its implementations.
 
-iv) Some app clones- (work in progress) Working on Spotify clone
+iv) Some app clones- i) Spotify
+                    ii) Working on Instagram reels - web app
 
 
 ##  About Me

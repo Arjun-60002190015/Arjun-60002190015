@@ -11,7 +11,8 @@ ii) some projects
 iii) factorial named file - which has important data structures and its implementations.
 
 iv) Some app clones- i) Spotify
-                    ii) Working on Instagram reels - web app
+                    ii) Instagram reels - web app
+                    iii) Working on an Amazon Clone app with a check-in, authentication page 
 
 
 ##  About Me

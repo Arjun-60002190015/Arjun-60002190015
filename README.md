@@ -20,7 +20,7 @@ I am interested in software and the  various problems it faces. I love to solve 
 
 
 ##  Skills
-Java programming - I have been coding for about 1.5 years now - i code in JAVA and am an  intermediate in data structures and algorithms.
+Java programming - I have been coding for about 2 years now - i code in JAVA and am an  intermediate in data structures and algorithms.
 
 
 ##  Links
